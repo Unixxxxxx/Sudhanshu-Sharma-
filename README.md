@@ -6,6 +6,10 @@
 ## 🔧 Technologies & Tools
 
 <p align="left">
+  <!-- Elasticsearch Logo -->
+  <a href="https://www.elastic.co" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40" />
+  </a>
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
@@ -14,10 +18,7 @@
   <img src="https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square" />
-  <!-- Elasticsearch Logo -->
-  <a href="https://www.elastic.co" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40" />
-  </a>
+  
 
   <!-- Kibana Logo -->
   <a href="https://www.elastic.co/kibana" target="_blank">
