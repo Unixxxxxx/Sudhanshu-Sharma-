@@ -6,11 +6,11 @@
 ## 🔧 Technologies & Tools
 
 <p align="center">
-  <!-- Programming Languages -->
+   Programming Languages
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
 
-  <!-- DevOps & Cloud -->
+  DevOps & Cloud
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square" />
@@ -24,12 +24,12 @@
   </a>
   
 
-  <!-- Databases -->
+   Databases 
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
   </a>
 
-  <!-- Elastic Stack -->
+   Elastic Stack 
   <a href="https://www.elastic.co" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40" />
   </a>
