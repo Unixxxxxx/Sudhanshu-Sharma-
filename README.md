@@ -82,10 +82,10 @@
 - 🔗 LinkedIn: [sudhanshu kumar/](https://www.linkedin.com/in/sudhanshu-kumar-281a84204/)
 
 ---
+<p align="center">💻 Always learning. Always building. Always securing. 🚀</p>
+
 <p align="center">
   <!-- GitHub Commits Badge -->
   <img src="https://img.shields.io/github/commits-since/<USERNAME>/<REPOSITORY>/latest?style=flat-square&label=commits&logo=github&logoColor=white" alt="GitHub Commits" />
 </p>
 -----
-
-<p align="center">💻 Always learning. Always building. Always securing. 🚀</p>
