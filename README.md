@@ -47,7 +47,7 @@
 ## 📫 Contact Me
 
 - 📧 Email: [Sudhanshuroyss208@gmail.com](Sudhanshuroyss208@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/](https://www.linkedin.com/in/sudhanshu-kumar-281a84204/)
+- 🔗 LinkedIn: [sudhanshu kumar/](https://www.linkedin.com/in/sudhanshu-kumar-281a84204/)
 
 ---
 
