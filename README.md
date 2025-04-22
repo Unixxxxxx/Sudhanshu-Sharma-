@@ -14,6 +14,16 @@
   <img src="https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square" />
+  <!-- Elasticsearch Logo -->
+  <a href="https://www.elastic.co" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40" />
+  </a>
+
+  <!-- Kibana Logo -->
+  <a href="https://www.elastic.co/kibana" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="Kibana" width="40" height="40" />
+  </a>
+
 </p>
 
 ---
@@ -36,7 +46,7 @@
 ## 📫 Contact Me
 
 - 📧 Email: [Sudhanshuroyss208@gmail.com](mailto:Sudhanshuroyss208@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/alexdev](https://www.linkedin.com/in/sudhanshu-kumar-281a84204/)
+- 🔗 LinkedIn: [linkedin.com/in/sudhanshu](https://www.linkedin.com/in/sudhanshu-kumar-281a84204/)
 
 ---
 
