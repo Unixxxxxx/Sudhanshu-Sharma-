@@ -39,15 +39,15 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github.com/Unixxxxxx" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Unixxxxxx&show_icons=true&theme=github_dark" alt="GitHub Stats" />
 </p>
 
 ---
 
 ## 📫 Contact Me
 
-- 📧 Email: [Sudhanshuroyss208@gmail.com](mailto:Sudhanshuroyss208@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/sudhanshu](https://www.linkedin.com/in/sudhanshu-kumar-281a84204/)
+- 📧 Email: [Sudhanshuroyss208@gmail.com](Sudhanshuroyss208@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/](https://www.linkedin.com/in/sudhanshu-kumar-281a84204/)
 
 ---
 
